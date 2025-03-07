@@ -1,0 +1,1 @@
+# galery-qr-camara-backend
